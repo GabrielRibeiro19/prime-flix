@@ -12,5 +12,5 @@ Também utilizamos o react toastify para mostrar os avisos, e é notificado semp
 
 ### `Projeto Online`
 
-Para ver o projeto online é só clicar [aqui](https://prime-flix-liart.vercel.app/) ou acessar pelo link [https://prime-flix-liart.vercel.app/](https://prime-flix-liart.vercel.app/).
+Para ver o projeto online é só clicar [aqui](https://primeflix.gribeiro.dev) ou acessar pelo link [https://primeflix.gribeiro.dev](https://primeflix.gribeiro.dev).
 
